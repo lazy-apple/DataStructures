@@ -6,9 +6,9 @@ package bTree;
  */
 public class BTree_test {
 
-    public void test(test t) {
-        t.string = "123";
-    }
+//    public void test(test t) {
+//        t.string = "123";
+//    }
     /**
      *
      * @param args
