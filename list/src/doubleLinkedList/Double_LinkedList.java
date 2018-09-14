@@ -2,7 +2,7 @@ package doubleLinkedList;
 
 
 /**
- * 双向链表
+ *  双向链表
  *
  *  出现过的错误1：插入方法不能在链表的尾部插入。（原因：getElement（）方法中检查元素的位置不能大于表的长度。解决方法：新定义尾插方法inserttill（））
  *
